@@ -1,4 +1,4 @@
-export default function Escrow({
+export default function EscrowComp({
   address,
   arbiter,
   beneficiary,
